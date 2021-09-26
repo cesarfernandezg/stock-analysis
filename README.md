@@ -10,4 +10,4 @@ Use Cells() to add names to different columns
 
 # using Loops() and Conditionals
 Use for loop to sum totalVolume
-Use conditionals if-then to search for the ticket "DQ" to sum
+Use conditionals if-then to search for the ticket "DQ" to increase the sum variable by a value
