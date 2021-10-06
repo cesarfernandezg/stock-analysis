@@ -33,3 +33,7 @@ Conditionally format all the cells with a loop.
 
 # Running Analysys for Any Year
 Using bottons to run the analysis for any year
+
+# Measuring Code Performance
+Using the Timer function in VBA to display the time it takes to the code to make the analysys
+Finally create a message box statement to show the elapsed time
