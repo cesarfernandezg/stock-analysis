@@ -27,3 +27,6 @@ Our new macro should do the following:
     b. Find the starting price for the current ticker.
     c. Find the ending price for the current ticker.
   6. Output the data for the current ticker.
+
+# Using Conditional formatting
+Conditionally format all the cells with a loop.
